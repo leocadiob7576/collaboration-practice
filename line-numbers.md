@@ -6,7 +6,7 @@
 #### 6
 #### 7 hello man!!!!
 #### 8
-#### 9 Github is really good
+#### 9 Github is really good.
 #### 10
 #### 11
 #### 12
